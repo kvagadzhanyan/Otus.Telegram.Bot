@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TelegramReminder": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
